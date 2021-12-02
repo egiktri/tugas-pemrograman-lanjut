@@ -1,0 +1,11 @@
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe.config
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\KalkulatorApp.csprojAssemblyReference.cache
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\KalkulatorApp.csproj.GenerateResource.cache
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\KalkulatorApp.csproj.CoreCompileInputs.cache
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\KalkulatorApp.FrmKalkulator.resources
+D:\semester 2\pemograman lanjut\AplikasiCalculator\AplikasiCalculator\AplikasiCalculator\obj\Debug\KalkulatorApp.FrmHasilPerhitungan.resources
